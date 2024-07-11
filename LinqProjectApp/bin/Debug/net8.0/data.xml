@@ -1,0 +1,10 @@
+﻿<Persons>
+    <Person>
+        <Name>Alice</Name>
+        <Age>30</Age>
+    </Person>
+    <Person>
+        <Name>Bob</Name>
+        <Age>25</Age>
+    </Person>
+</Persons>
